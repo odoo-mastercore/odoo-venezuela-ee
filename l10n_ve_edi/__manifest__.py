@@ -14,7 +14,7 @@
 Configura diarios de ventas para asignar la modalidad Factura digital a sus
 facturas y notas de crédito. No realiza conexiones con servicios web externos.
     """,
-    'version': '18.0.1.0.0',
+    'version': '18.0.1.0.1',
     'category': 'Accounting/Localizations',
     'countries': ['ve'],
     'author': 'Mastercore Sinapsys Global',
